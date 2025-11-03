@@ -1,0 +1,7 @@
+﻿root = true
+
+[*]
+indent_size = 4
+
+[docs/.vitepress/config.ts]
+indent_size = 2
