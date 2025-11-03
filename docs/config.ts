@@ -15,7 +15,7 @@ export default defineAdditionalConfig({
         },
 
         editLink: {
-            pattern: 'https://github.com/pynickle/better-client-wiki/edit/main/:path',
+            pattern: 'https://github.com/pynickle/better-client-wiki/edit/master/docs/:path',
             text: 'Edit this page on GitHub'
         },
 
