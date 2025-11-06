@@ -17,3 +17,6 @@
 
 ### **5.** *Book Save Confirmation*  (1.21.1, 1.21.6+)
 * When you make changes to the content of a book and close it without saving, a prompt will pop up reminding you to save.
+
+### **6.** *World Play Time*  (1.21.9+)
+* Display the playtime for each world on the world selection screen.
