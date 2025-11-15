@@ -11,3 +11,6 @@
 
 ### **4.** *Trial Spawner Timer*  (1.21.9+)
 * A countdown timer will appear above the trial spawner, displaying its cooldown duration.
+
+### **5.** *Invisible Item Frame*  (1.21.9+)
+* Aim the crosshair at the item frame and press the assigned key to hide it. Holding the item frame allows you to see hidden item frames.
