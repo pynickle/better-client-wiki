@@ -12,5 +12,5 @@
 ### **4.** *TimeStamp*  (1.21.1+)
 * The time is now displayed before the chat message.
 
-### **5.** *Chat Formatter*  (1.21.9+)
+### **5.** *Chat Formatter*  (1.21.1, 1.21.9+)
 * Automatic replacement of placeholders like {pos} with actual player coordinates.
