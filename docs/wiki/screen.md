@@ -20,3 +20,6 @@
 
 ### **6.** *World Play Time*  (1.21.9+)
 * Display the playtime for each world on the world selection screen.
+
+### **7.** *Lower Shield*  (1.21.9+)
+* The shield appears lower, not obstructing the field of view.
