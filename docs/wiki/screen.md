@@ -23,3 +23,6 @@
 
 ### **7.** *Lower Shield*  (1.21.9+)
 * The shield appears lower, not obstructing the field of view.
+
+### **8.** *Totem Bar*  (1.21.9+)
+* Display a bar icon to indicate the number of totems you currently possess.
