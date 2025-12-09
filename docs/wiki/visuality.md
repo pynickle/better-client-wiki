@@ -14,3 +14,6 @@
 
 ### **5.** *Invisible Item Frame*  (1.21.9+)
 * Aim the crosshair at the item frame and press the assigned key to hide it. Holding the item frame allows you to see hidden item frames.
+
+### **6.** *Client Weather*  (1.21.9+)
+* Use the cweather command to adjust client-side weather without affecting the server.
