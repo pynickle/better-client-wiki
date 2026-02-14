@@ -21,7 +21,7 @@ export default defineAdditionalConfig({
 
         footer: {
             message: 'Released under the MIT License.',
-            copyright: 'Copyright © 2025-present ENC_Euphony'
+            copyright: 'Copyright © 2026-present ENC_Euphony'
         }
     }
 })
