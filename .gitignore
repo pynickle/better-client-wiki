@@ -132,3 +132,5 @@ dist
 .idea/
 
 **/.vitepress/cache
+
+AGENTS.md

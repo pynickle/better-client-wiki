@@ -12,7 +12,7 @@
 ### **3.** *Book Scroll*  (1.21.1, 1.21.6+)
 * Now you can use the mouse wheel to turn the pages of the book.
 
-### **4.** *No Experimental Warning*  (1.21.6+)
+### **4.** *No Experimental Warning*  (1.21.1, 1.21.6+)
 * The warning about creating experimental worlds and entering experimental worlds will no longer appear.
 
 ### **5.** *Book Save Confirmation*  (1.21.1, 1.21.6+)
