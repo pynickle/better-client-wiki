@@ -26,3 +26,8 @@
 
 ### **8.** *Totem Bar*  (1.21.9+)
 * Display a bar icon to indicate the number of totems you currently possess.
+
+### **9.** *Potion Bar*  (1.21.9+)
+* Display compact progress bars for active status effects on the HUD.
+* The bar position can be configured with presets, including center, plus custom X/Y offsets.
+* Higher amplifier levels are shown with compact level markers; levels above V use Roman numerals.
