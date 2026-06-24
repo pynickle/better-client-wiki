@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "更好的客户端"
-  text: "全能一体化与终极整合"
+  name: '更好的客户端'
+  text: '全能一体化与终极整合'
   tagline: 细微改进，汇成整体
   image:
-      src: /better-client.png
-      alt: Better Client
+    src: /better-client.png
+    alt: Better Client
   actions:
     - theme: brand
       text: 支持版本
@@ -31,6 +31,7 @@ features:
     icon: ⚙️
     details: 所有功能均可开启或关闭，并提供丰富的配置选项。
 ---
+
 <style>
 :root {
   --vp-home-hero-name-color: transparent;
