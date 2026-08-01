@@ -23,3 +23,10 @@
 ### **6.** _Client Weather_ (1.21.9+)
 
 - Use the cweather command to adjust client-side weather without affecting the server.
+
+### **7.** _New Item Marker_ (26.2+)
+
+- Recently picked up items are marked with a small pulsing dot colored by item rarity.
+- The marker can be cleared on hover, on hotbar slot selection, or when the inventory closes.
+- Markers can also be shown over hotbar items outside inventory screens.
+- The marker corner position (upper-left, upper-right, lower-left, lower-right) is configurable.

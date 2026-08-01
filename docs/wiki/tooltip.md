@@ -7,6 +7,7 @@
 ### **2.** _Durability Tooltip_ (1.21.6+)
 
 - The tooltip for damageable items now displays durability information.
+- Supports an Auto adaptation mode: when another supported durability tooltip mod is loaded, this feature is automatically disabled.
 
 ### **3.** _Compass Tooltip_ (1.21.9+)
 
